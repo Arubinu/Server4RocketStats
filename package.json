@@ -1,0 +1,12 @@
+{
+  "name": "server4rocketstats",
+  "version": "1.0.0",
+  "description": "Create a socket server making the bridge between a gaming pc and a streaming pc, for the RocketStats overlay.",
+  "main": "index.js",
+  "author": "Alvin Pergens",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.1.3"
+  }
+}
